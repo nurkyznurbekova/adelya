@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>mitskilove:)</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <header>
+        <img src="https://i.pinimg.com/564x/5e/b0/48/5eb04891fcfdff030e252c05941117ce.jpg" width="100px"/>
+        <p>Mitski!</p>
+        <div>
+        <a href="#bio">biography</a>
+        <a href="#career">career</a>
+        <a href="songs.html">songs</a>
+        <a class="special1" href="https://www.etsy.com/market/mitski">merch</a>
+    </div>
+    </header>
+    <body>
+    <main>
+        <img class="acho" src="https://s3.amazonaws.com/l.a.record-web-images/wp-content/uploads/2019/07/18/Mitski-4.jpg" width="100%" height="900px"/>
+        <p class="aho">Mitski and <br>everything about<br> her</p>
+        <div class="div1">
+        <h1 id="bio">Biography</h1>
+        <p class="bio2">Мицки Мияваки (при рождении Мицуки<br> Фрэнсис Лэйкок)родилась 27 сентября <br>1990 года в Японии. Когда она росла,<br> она часто переезжала из-за работы<br> своего отца в Государственном<br> департаменте США, живя в тринадцати <br> странах, включая Турцию, Китай,<br> Малайзию, Чехию и Демократическую <br> Республику Конго, прежде чем в <br> конечном итоге обосноваться в <br> Соединенных Штатах. Мицки было <br> восемнадцать, когда она написала <br> свою первую песню.</p>
+        <img src="https://tecoapple.com/wp-content/uploads/2022/04/mitskiglidec022.jpg" width="500px"/>
+        </div>
+        <section>
+        <div class="div2">
+        <p>В 2019 году исполнительница прервала активную музыкальную деятельность после гастролей, которые почти без перерыва продолжались около пяти лет. Её фанаты были очень расстроены и посвящали много постов этому уходу, поэтому Мицки объявила, что не собирается бросать музыку; однако в то время она действительно собиралась навсегда закончить с карьерой.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnt4sLHeljaQQGKuY-NZg5Ifish-F4K7knt8bGpYIUfxt0ugiqaSCVaTJBcx0lDbGDOtk&usqp=CAU" width="470px" />
+        <img style="top: 270px;" src="https://media.pitchfork.com/photos/5c0ebe7844e1042d6a439b28/2:1/w_2560%2Cc_limit/-Mitski.jpg" width="470px" />
+        <img style="top: 510;" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F5d5baed2-c23c-11e8-84cd-9e601db069b8?fit=scale-down&source=next&width=700" width="470px" />
+        </div>
+        <div class="div3">
+        <h1 id="career">Career</h1>
+        <p>fffffffffffffffffff</p>
+        <img src="https://www.zvuki.ru/images/photo/67/67281.jpg"/>
+        </div>
+    </section>
+    </main>
+    <footer>
+    
+    <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png"></a>
+    
+    </footer>
+    </body>
+</html>
